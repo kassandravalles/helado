@@ -1,0 +1,68 @@
+h1{
+	color: #058ED9;
+	font-family: 'Roboto', sans-serif;
+	font-size: 42px;
+	padding: 100px;
+	margin: 0px;
+	text-align: center;
+
+}
+
+h2{
+	color:#208AAE;
+	font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px
+}
+
+a{
+	text-decoration: none;
+	color: #058ED9
+}
+
+a:hover {
+	color: #F3D9D0;
+}
+
+#banner {
+text-align: center;
+background-image: url("https://images.unsplash.com/photo-1505394033641-40c6ad1178d7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=806&q=80");
+padding: 150px;
+background-size: cover;
+text-shadow: 1px 1px 5px grey;
+}
+
+.section {
+	text-align: center;
+}
+
+#banner h1 {
+	font-size: 50px;
+	font-weight: lighter;
+}
+
+#footer {
+	padding: 30px;
+	background-color: #F3D9D0;
+	color: grey;
+	font-weight: lighter;
+}
+
+#gourmet {
+	font-size: 24px;
+}
+
+.fab:hover {
+	color: white;
+}
+
+.fas:hover {
+	color: white;
+}
+
+.fontsize-thirty {
+	font-size: 35px;
+}
